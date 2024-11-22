@@ -13,5 +13,6 @@ The dataset includes 62,884 video game sales records spanning from 1971 to 2024,
  
 	4. Analyze regional popularity to spot localized preferences or disparities.
 
-The EDA is done on Jupter Notebook using Python and its libraries.
-The insights have been recorded on the PPT.
+The EDA is done in Jupter Notebook using Python and its libraries (NumPy, Pandas, Seaborn, MatPlotLib, Plotly).
+
+The insights have been recorded in the PPT.
