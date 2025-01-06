@@ -15,4 +15,4 @@ The dataset includes 62,884 video game sales records spanning from 1971 to 2024,
 
 The EDA is done in Jupter Notebook using Python and its libraries (NumPy, Pandas, Seaborn, MatPlotLib, Plotly).
 
-The insights have been presented in the PPT.
+The insights have been presented in the PDF.
